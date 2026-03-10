@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#4263eb"/>
+  <!-- Play triangle (Ad On Group family element) -->
+  <path d="M10 9L10 23L20 16Z" fill="white" opacity="0.9"/>
+  <!-- System node dots -->
+  <circle cx="22" cy="10" r="2" fill="white" opacity="0.7"/>
+  <circle cx="22" cy="16" r="2" fill="white"/>
+  <circle cx="22" cy="22" r="2" fill="white" opacity="0.7"/>
+  <!-- Connecting lines from triangle tip to nodes -->
+  <line x1="20" y1="16" x2="22" y2="10" stroke="white" stroke-width="0.8" opacity="0.4"/>
+  <line x1="20" y1="16" x2="22" y2="22" stroke="white" stroke-width="0.8" opacity="0.4"/>
+</svg>
